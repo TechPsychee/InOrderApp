@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="cartFoodName">#373b54</color>
+    <color name="purple">#BF1FE0</color>
+    <color name="pink2">#E01FA9</color>
+    <color name="pink">#E06A78</color>
+    <color name="textColor">#191E24</color>
+    <color name="red2">#E03B1F</color>
+
+    <color name="red">#E1591C</color>
+    <color name="default_color">#7A7A7A</color>
+
+</resources>
